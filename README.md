@@ -7,11 +7,10 @@ We will apply 10 models
 3. ViT 
 4. PVT v2 
 5. PiT 
-6. CAFormer 
-7. Base Model 
-8. BeiT  
-9. RepViT
-10. DaViT
-11. M-ViTz
-12. Customized CNN model (Low parameter <5M) with transfer Learning(TL)
+6. CAFormer  
+7. BeiT  
+8. RepViT
+9. DaViT
+10. M-ViTz
+11. Customized CNN model (Low parameter <5M) with transfer Learning(TL)
 CerevianNet: Parameter Efficient Multiclass Brain Tumor Classification Using Custom Lightweight CNN..
