@@ -14,3 +14,12 @@ We will apply 10 models
 10. M-ViTz
 11. Customized CNN model (Low parameter <5M) with transfer Learning(TL)
 CerevianNet: Parameter Efficient Multiclass Brain Tumor Classification Using Custom Lightweight CNN..
+
+
+## How to use the project 
+1. Version 01 folder contains codes of all Transformer models. You can see the best model and model history in spacific folders.
+2. Version 02 folder contains CNN based custom model which is very light weight and performence is almost similar but lot more light weight.
+3. Gradcam folder contains the Explanable AI and it can show how much accurate our coustom model is.
+
+
+We submit our findings in a form of Publication in Plos Journal . Excited to see the review !!!
